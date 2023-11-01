@@ -1,0 +1,9 @@
+variable "region" {}
+variable "project_name" {}
+variable "vpc_cidr" {}
+variable "public_subnet_co1_cidr_block" {}
+variable "public_subnet_co2_cidr_block" {}
+variable "private_app_subnet_co1_cidr_block" {}
+variable "private_app_subnet_co2_cidr_block" {}
+variable "private_data_subnet_co1_cidr_block" {}
+variable "private_data_subnet_co2_cidr_block" {}
